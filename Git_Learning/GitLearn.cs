@@ -6,4 +6,6 @@ class GitLearn
     }
 
     public int DaysLearning { get; protected set;}
+    int f = 3;
+    
 }
