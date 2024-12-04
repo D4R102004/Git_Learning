@@ -1,0 +1,14 @@
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\bin\Debug\net8.0\Git_Learning.exe
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\bin\Debug\net8.0\Git_Learning.deps.json
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\bin\Debug\net8.0\Git_Learning.runtimeconfig.json
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\bin\Debug\net8.0\Git_Learning.dll
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\bin\Debug\net8.0\Git_Learning.pdb
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\Git_Learning.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\Git_Learning.AssemblyInfoInputs.cache
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\Git_Learning.AssemblyInfo.cs
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\Git_Learning.csproj.CoreCompileInputs.cache
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\Git_Learning.dll
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\refint\Git_Learning.dll
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\Git_Learning.pdb
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\Git_Learning.genruntimeconfig.cache
+c:\Users\adria\OneDrive\Desktop\University\Programacion\Avangenio.git\Git_Learning\obj\Debug\net8.0\ref\Git_Learning.dll
