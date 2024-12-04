@@ -5,13 +5,3 @@
         System.Console.WriteLine("polo");
     }
 }
-
-    class GitLearn
-{
-    public GitLearn(int daysLearning)
-    {
-        DaysLearning = daysLearning;
-    }
-
-    public int DaysLearning { get; }
-}
